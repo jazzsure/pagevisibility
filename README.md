@@ -1,0 +1,3 @@
+#use
+
+  *visibility.visibilitychange(function(){})
